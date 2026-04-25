@@ -5,6 +5,8 @@ layout: default
 
 # My super cool website that analyzes the effectiveness of LS assingments on understanding in comp 110
 
+This webstie uses a bar graph, a box plot, a cat plot and a scatter plot to visulize studetent responses. The bar graph shows how many students generally thought the LS assignments were helpful. The scatter plot, though proved to not be helpful, attempted to analyze the relationship between LS effectiveness and student understanding. The cat plot did a better job at this analysis and was used to determine the upwards trend between students who have higher lsqs_effectiveness and those who have a higher understanding. Finally, since the scatter plot was not effective, we included a box plot that utalizes error bars to futher analyze how lsqa_effectiveness relates to understanding. 
+
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="500"/>
